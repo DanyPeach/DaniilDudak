@@ -12,10 +12,8 @@ table {
     width: 250px;
     background-color:#F0E68C ;
     color: black;
+    padding-right: 25px;
     padding: 10px;
-    padding-right: 20px;
-
-    
 }
 .SportsList div{
     margin-top: 20px;
@@ -35,18 +33,14 @@ table {
 .FootBallTitle{ 
     margin-top: 30px;
     font-weight: bold;
-    
-
 }
+
 .Page img{
     float: left;
-    
     margin: 18px;
     padding: 0px;
     margin-right: 40px;
 }
 .MmainTtextFoo{
-    
-    margin: 15px; 
-    
+     margin: 15px; 
 }
