@@ -1,0 +1,44 @@
+
+.header{
+    font-size: 25px;
+    height: 2cm;
+    background-color: #a5c9d4;
+    color: #1010d3;
+    padding-top: 1cm;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.sports_list{
+    width: 250px;
+    float: left;    
+}
+.content{
+    background: url('img/ball.png') right top repeat-y;
+    padding-left: 250px;
+}
+
+
+.footer{
+    font-size: 25px;
+    height: 2cm;
+    font-weight: bold;
+    background-color: #9dc5d3;
+    color: #3939d8;
+    padding-top: 1cm;
+    text-align: center;
+}
+img{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.titleF{
+    font-weight: bold;
+    padding: 20px;
+}
+.main_article{
+    margin-left: 30px;
+}
