@@ -1,0 +1,15 @@
+.star0 {
+    float: left;
+}
+.star1 {
+    background: url('img/star0.png');
+    float: right;
+    width: 76px;
+    height: 78px;
+}
+.star0  .star1:hover {
+    background: url('img/star1.png');
+}
+.star1:hover ~:after{
+    content: url('img/star1.png');
+}

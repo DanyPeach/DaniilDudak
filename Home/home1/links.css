@@ -1,0 +1,26 @@
+
+
+li {
+    float: left;
+    text-decoration: none;
+}
+
+a {
+    
+    padding: 8px;
+    background-color: #ffffff;
+}
+
+
+.navigation__nav a{
+    display: inline-block;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
